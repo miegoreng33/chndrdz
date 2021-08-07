@@ -9,7 +9,9 @@ Hi, I am Chandra Dzaki Kusuma. An Undergraduate student currently studying at Un
 [![Gmail Badge](https://img.shields.io/badge/-Chandra_Dzaki-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chandradzakikusuma@gmail.com)](mailto:chandradzakikusuma@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Chandradzaki-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandradzaki/)](https://www.linkedin.com/in/chandradzaki/)
 
+<br/>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=chndrdz.chndrdz)
 <!---
 chndrdz/chndrdz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
